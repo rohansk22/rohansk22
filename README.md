@@ -1,6 +1,6 @@
 [![MasterHead](https://api.deepai.org/job-view-file/8920716e-d3ca-4f5d-8dc1-c6bfec8b8706/outputs/output.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rohan S K</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from Dallas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansk22&label=Profile%20views&color=0e75b6&style=flat" alt="rohansk22" /> </p>
 
