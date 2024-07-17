@@ -4,19 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansk22&label=Profile%20views&color=0e75b6&style=flat" alt="rohansk22" /> </p>
 
-- 🔭 I’m currently working on **Marketing Modelling Mix**
+- 🔭 I’m aspiring to be a ** Data Analyst **
 
-- 🌱 I’m currently learning **Time Series Forecasting**
+- 🌱 I’m currently learning **Azure Databricks** 
 
-- 👯 I’m looking to collaborate on **Data Visualizations**
+- 👯 I’m looking to collaborate on **AWS Projects**
 
-- 🤝 I’m looking for help with **Building a suitable marketing mix model**
+- 🤝 I’m looking for help with **Generative AI and LLMs**
 
 - 💬 Ask me about **Machine Learning and GPT models**
 
 - 📫 How to reach me **rohansk.123@gmail.com**
 
-- ⚡ Fun fact **I have never been hospitalized**
+- ⚡ Fun fact **I once hitched on a freight train to get back home from vacation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
