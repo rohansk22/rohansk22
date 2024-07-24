@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansk22&label=Profile%20views&color=0e75b6&style=flat" alt="rohansk22" /> </p>
 
-- 🔭 I’m aspiring to be a ** Data Analyst **
+- 🔭 I’m aspiring to be a **Data Analyst**
 
 - 🌱 I’m currently learning **Azure Databricks** 
 
