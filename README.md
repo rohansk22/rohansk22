@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rohansk.123@gmail.com**
 
-- ⚡ Fun fact **I once hitched on a freight train to get back home from vacation**
+- ⚡ Fun fact **I once hitched a freight train to get back home from vacation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
